@@ -2,6 +2,7 @@
 ============================
 <style type=”text/css”>comment { display:none; }</style>
 <comment>Written in GitHub-flavored Markdown.</comment>
+
 <small>Arthur Wang/王铭烨 <arthur200126@gmail.com></small>
 
 **概述**：计划中的上海市实验学校开源社团是一个学习和使用一些开源/自由软件（尤其是在类 UNIX 平台上），并且为使用者们提供交流和提升机会的地方。在初期对于所有的社员会有一定基础知识要求，中后期开始引导社员各自**自行**向 T<sub>E</sub>X 排版/文字处理、Markdown 文本编辑、Inkscape 矢量图制作、Fontforge 字体制作甚至于 Blender 3D 动画等方面发展。社团鼓励社员通过 GitHub 等渠道支持现有的开源项目发展，也希望看到社员能做出较为独特的项目自行发布。这个社团的定位是一个泛自由软件的用户组/团体 (User Group), 而非一个开发者社群。
